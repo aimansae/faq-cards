@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ accordion card
 
-![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
+![Design preview for the FAQ accordion card coding challenge](/images/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -21,7 +21,7 @@ Your users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - See hover states for all interactive elements on the page
 - Hide/Show the answer to a question when the question is clicked
-- **Bonus**: Complete the challenge without using JavaScript
+- **Bonus**: Complete the challenge using JavaScript
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
