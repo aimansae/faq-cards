@@ -1,4 +1,4 @@
-const expandIcon = document.querySelectorAll(".expandIcon");
+const expandIcon = document.querySelectorAll(".question");
 const questions = document.querySelectorAll(".question");
 const answers = document.querySelectorAll(".answer");
 console.log(answers);
