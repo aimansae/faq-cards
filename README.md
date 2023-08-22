@@ -23,5 +23,5 @@ As expected, users are  able to:
 
 This project was deployed through [Netlify](https://www.netlify.com/)
 
-Please gind the live version [here](https://as-faq-accordion.netlify.app)
+Please find the live version [here](https://as-faq-accordion.netlify.app)
 
